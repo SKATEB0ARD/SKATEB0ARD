@@ -1,4 +1,4 @@
-<h1 align="center">Dashnullify</h1>
+<h1 align="center">Sim Swapper</h1>
 <br />
 
 **Languages i know**
