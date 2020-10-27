@@ -1,4 +1,4 @@
-<h1 align="center">Sim Swapper</h1>
+<h1 align="center">SKATEB0ARD</h1>
 <br />
 
 ### Languages i know
@@ -23,8 +23,8 @@ Maven and Gradle
 * OW2 Asm
 
 <a href="https://github.com/sim-swapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sim-swapper&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="sim-swapper's stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SKATEB0ARD&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="sim-swapper's stats" />
   <a href="https://github.com/sim-swapper?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sim-swapper&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKATEB0ARD&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" />
 </a>
 </a>
