@@ -16,6 +16,8 @@ Maven and Gradle
 * Networking
 * Cryptography
 * Multi threading
+* REST
+* Redis, MySQL, MongoDB
 
 ### APIs i know
 * Slim framework
