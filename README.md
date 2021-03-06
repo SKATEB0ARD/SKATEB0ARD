@@ -1,4 +1,7 @@
-<h1 align="center">skateboard</h1>
+<h1 align="center">Brennan | skateboard</h1>
+<div align="center">
+	<strong> Owner of [KiteAIO](https://github.com/KiteAIO)</strong>
+</div>
 <br />
 
 ### Languages i know
