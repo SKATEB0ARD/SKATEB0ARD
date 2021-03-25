@@ -4,7 +4,7 @@
 </div>
 <br />
 
-### Languages i know
+### Languages
 * Java: 5 years
 * CPP / C: 2 years
 * PHP: 2 years
@@ -22,7 +22,7 @@ Maven and Gradle
 * REST
 * Redis, MySQL, MongoDB
 
-### APIs i know
+### APIs
 * Slim framework
 * Laravel
 * OW2 Asm
