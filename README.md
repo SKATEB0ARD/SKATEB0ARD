@@ -1,6 +1,6 @@
 <h1 align="center">Brennan | skateboard</h1>
 <div align="center">
-	<strong> Owner of <a href="https://github.com/KiteAIO">KiteAIO</a></strong>
+	<strong> Owner of <a href="https://github.com/KiteAIO">KiteAIO</a> and <a href="https://github.com/AuthPanel">AuthPanel</a></strong>
 </div>
 <br />
 
