@@ -12,6 +12,9 @@
 * Python: 1 year
 * C#: 1 year
 
+## Currently Learning
+* GO
+
 ### Build Systems
 Maven and Gradle
 
