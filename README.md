@@ -12,7 +12,7 @@
 * Python: 1 year
 * C#: 1 year
 
-## Currently Learning
+### Currently Learning
 * GO
 
 ### Build Systems
