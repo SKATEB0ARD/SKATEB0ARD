@@ -1,6 +1,6 @@
 <h1 align="center">Brennan | skateboard</h1>
 <div align="center">
-	<strong>dev</strong>
+	<strong><a href="https://github.com/Glitch-Software">Glitch Software</a> | <a href="https://github.com/AceAIO">AceIO</a></strong>
 </div>
 <br />
 
